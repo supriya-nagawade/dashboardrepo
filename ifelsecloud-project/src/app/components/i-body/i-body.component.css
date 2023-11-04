@@ -1,0 +1,26 @@
+.ib-row1 {
+  /* display: flex;
+  gap: 1rem; */
+}
+
+.inside-body {
+  background-color: white;
+}
+
+.saving-p-c {
+  display: flex !important;
+}
+
+.ib-row2 {
+  display: flex;
+  flex-flow: row;
+  background-color: aqua;
+  justify-content: space-between;
+}
+
+.ib-row3 {
+  display: flex;
+  flex-flow: row;
+  background-color: aqua;
+  justify-content: space-between;
+}

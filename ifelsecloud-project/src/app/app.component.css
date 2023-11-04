@@ -1,0 +1,36 @@
+.row1 {
+  display: flex;
+  flex-flow: row;
+  background-color: aqua;
+  justify-content: space-between;
+}
+
+.row2 {
+  display: flex;
+  flex-flow: row;
+  background-color: aqua;
+  justify-content: space-between;
+}
+
+.row1-col1-h {
+  background-color: blueviolet;
+  width: 3em;
+}
+
+.inside-h-nav {
+  display: flex;
+  justify-content: flex-end;
+  background-color: antiquewhite;
+  padding: 1em;
+}
+
+.row2-col1 {
+  width: 3em;
+  background-color: yellow;
+}
+
+.row2-col2_ {
+  width: 100%;
+  background-color: aquamarine;
+  padding: 2em;
+}

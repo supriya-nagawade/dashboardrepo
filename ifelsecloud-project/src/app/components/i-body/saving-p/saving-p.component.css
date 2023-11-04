@@ -1,0 +1,59 @@
+.c1_s {
+  display: flex;
+  cursor: pointer;
+  justify-content: space-between;
+  padding: 1em;
+}
+
+.c1_s:active {
+  background-color: red;
+  color: white !important;
+}
+
+.c1_s:hover {
+  color: white;
+  background-color: burlywood;
+}
+
+.c1_s:hover {
+  .p-size {
+    color: white;
+  }
+}
+
+.p-size {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: rgb(75, 75, 243);
+}
+
+.exp-size {
+  font-size: 0.8em;
+}
+
+.sav-p-css {
+  display: flex;
+  gap: 2em;
+}
+
+.cr1 {
+  background-color: cadetblue;
+  width: 100%;
+}
+
+.cr2 {
+  background-color: rgb(120, 68, 1);
+  width: 100%;
+}
+.cr3 {
+  width: 100%;
+  background-color: blue;
+}
+.cr4 {
+  background-color: rgb(243, 185, 27);
+  width: 100%;
+}
+
+.px1 {
+  font-size: 1rem;
+}
